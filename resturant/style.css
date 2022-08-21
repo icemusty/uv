@@ -1,0 +1,27 @@
+body{background-image:url("Wireframe\ P1\ B.jpg");background-size: cover;background-repeat: no-repeat;
+background-attachment: fixed;text-align: center;
+padding: 20px 10px;}
+.container{width: 50%;
+   margin-left: auto;margin-right: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: 2px 2px 5px blue;}
+header{height: 18px;
+width: 1024px;
+text-align: center;overflow: scroll;}
+nav{display: block;
+background-color: brown;
+padding-top: 14px;
+padding-bottom: 14px;height: 30px;opacity: ;}
+nav a{color: aliceblue;
+text-decoration: overline;
+padding-left: 14px;
+padding-right: 14px;}
+main a{text-decoration: overline;
+padding: 13px 13px;
+font-size:xx-large;}
+footer{height: 200px; margin-top:50px;
+text-align: center;
+background-color: black;}
+footer p{padding: 20px 10px;
+color: aqua;display: block;
+font-size: x-small;}
